@@ -1,8 +1,8 @@
 app_name = "done_with_it"
 app_title = "Done With It"
 app_publisher = "George Michael"
-app_description = "This app helps people sell items they are done with"
-app_email = "goergemichaelkipkemboi@gmail[D"
+app_description = "Done With Goods Sale"
+app_email = "georgemichaelkipkemboi@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>

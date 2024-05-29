@@ -1,6 +1,6 @@
 ## Done With It
 
-This app helps people sell items they are done with
+Done With Goods Sale
 
 #### License
 

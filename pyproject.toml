@@ -1,9 +1,9 @@
 [project]
 name = "done_with_it"
 authors = [
-    { name = "George Michael", email = "goergemichaelkipkemboi@gmail[D"}
+    { name = "George Michael", email = "georgemichaelkipkemboi@gmail.com"}
 ]
-description = "This app helps people sell items they are done with"
+description = "Done With Goods Sale"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
